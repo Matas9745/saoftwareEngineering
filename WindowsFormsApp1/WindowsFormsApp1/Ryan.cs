@@ -10,22 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
-    public partial class Form1 : Form
+    public partial class Ryan : Form
     {
-        public Form1()
+        public Ryan()
         {
             InitializeComponent();
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Ryan r = new Ryan();
-            r.ShowDialog();
         }
     }
 }
