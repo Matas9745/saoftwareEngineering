@@ -30,7 +30,8 @@ namespace WindowsFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            Seth s = new Seth();
+            s.ShowDialog();
         }
 
         private void button3_Click(object sender, EventArgs e)
