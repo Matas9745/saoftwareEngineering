@@ -57,12 +57,6 @@
     <Compile Include="matas.Designer.cs">
       <DependentUpon>matas.cs</DependentUpon>
     </Compile>
-    <Compile Include="matas2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="matas2.Designer.cs">
-      <DependentUpon>matas2.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Ryan.cs">
