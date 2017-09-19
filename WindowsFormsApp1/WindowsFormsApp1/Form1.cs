@@ -19,7 +19,13 @@ namespace WindowsFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //The button to start seth good times
+        }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Ryan r = new Ryan();
+            r.ShowDialog();
         }
 
         private void Form1_Load(object sender, EventArgs e)
