@@ -26,6 +26,7 @@ namespace WindowsFormsApp1
         {
             Ryan r = new Ryan();
             r.ShowDialog();
+            MessageBox.Show("WHY DID YOU CLOSE THE FORM MORTAL!");
         }
 
         private void Form1_Load(object sender, EventArgs e)
