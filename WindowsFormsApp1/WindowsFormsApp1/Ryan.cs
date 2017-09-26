@@ -21,5 +21,11 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("HAHAHAHA I LIED IT IS NEVERENDING SUFFERING!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            RyanUserClass rus = new RyanUserClass();
+            textBox1.Text = Convert.ToString(rus.Addition(double.Parse(tbNum1.Text),double.Parse(tbNum2.Text)));
+        }
     }
 }

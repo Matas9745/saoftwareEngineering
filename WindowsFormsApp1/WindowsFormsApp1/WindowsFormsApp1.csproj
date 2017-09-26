@@ -65,6 +65,7 @@
     <Compile Include="Ryan.Designer.cs">
       <DependentUpon>Ryan.cs</DependentUpon>
     </Compile>
+    <Compile Include="RyanUserClass.cs" />
     <Compile Include="Seth.cs">
       <SubType>Form</SubType>
     </Compile>
