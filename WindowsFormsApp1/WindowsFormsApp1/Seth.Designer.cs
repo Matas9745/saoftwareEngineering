@@ -32,7 +32,7 @@
             this.btn_Initiate = new System.Windows.Forms.Button();
             this.txt_number1 = new System.Windows.Forms.TextBox();
             this.lbl_num1 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.txt_number2 = new System.Windows.Forms.TextBox();
             this.lbl_num2 = new System.Windows.Forms.Label();
             this.txt_finAns = new System.Windows.Forms.TextBox();
             this.lbl_finAns = new System.Windows.Forms.Label();
@@ -73,12 +73,12 @@
             this.lbl_num1.TabIndex = 3;
             this.lbl_num1.Text = "Number 1";
             // 
-            // textBox1
+            // txt_number2
             // 
-            this.textBox1.Location = new System.Drawing.Point(75, 127);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(111, 20);
-            this.textBox1.TabIndex = 4;
+            this.txt_number2.Location = new System.Drawing.Point(75, 127);
+            this.txt_number2.Name = "txt_number2";
+            this.txt_number2.Size = new System.Drawing.Size(111, 20);
+            this.txt_number2.TabIndex = 4;
             // 
             // lbl_num2
             // 
@@ -113,7 +113,7 @@
             this.Controls.Add(this.lbl_finAns);
             this.Controls.Add(this.txt_finAns);
             this.Controls.Add(this.lbl_num2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txt_number2);
             this.Controls.Add(this.lbl_num1);
             this.Controls.Add(this.txt_number1);
             this.Controls.Add(this.btn_Initiate);
@@ -131,7 +131,7 @@
         private System.Windows.Forms.Button btn_Initiate;
         private System.Windows.Forms.TextBox txt_number1;
         private System.Windows.Forms.Label lbl_num1;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox txt_number2;
         private System.Windows.Forms.Label lbl_num2;
         private System.Windows.Forms.TextBox txt_finAns;
         private System.Windows.Forms.Label lbl_finAns;
