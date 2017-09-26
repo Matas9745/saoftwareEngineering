@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RyanUnitTest", "RyanUnitTest\RyanUnitTest.csproj", "{33D8D7E7-F3CD-4F67-9939-FE4DD3F97CF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SethUnitTest", "SethUnitTest\SethUnitTest.csproj", "{0ABB189C-FEA2-46A9-A912-4FA32BB40875}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matasTest", "matasTest\matasTest.csproj", "{2F4A38B7-8819-461D-9291-9DE818780203}"
 EndProject
 Global

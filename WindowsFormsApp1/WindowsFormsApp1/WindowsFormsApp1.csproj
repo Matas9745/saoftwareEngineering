@@ -74,6 +74,7 @@
     <Compile Include="Seth.Designer.cs">
       <DependentUpon>Seth.cs</DependentUpon>
     </Compile>
+    <Compile Include="SethsFunZone.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
