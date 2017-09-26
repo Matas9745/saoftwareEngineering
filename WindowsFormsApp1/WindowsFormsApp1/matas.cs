@@ -21,5 +21,14 @@ namespace WindowsFormsApp1
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string name;
+            MatasUser mu = new MatasUser();
+            name = mu.addName(txtName.Text);
+            combo1.Items.Add(name);
+
+        }
     }
 }
